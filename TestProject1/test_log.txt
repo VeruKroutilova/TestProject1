@@ -1,0 +1,358 @@
+[2025-02-04 21:56:07] Test start: SendFileFromOneDrive
+[2025-02-04 21:56:12] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 21:56:12] ERROR: Test failed: SendFileFromOneDrive
+[2025-02-04 22:23:00] Test start: SendFileFromOneDrive
+[2025-02-04 22:24:44] Test začíná: Odeslání souboru z OneDrive
+[2025-02-04 22:24:44] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@aria-label, 'Chat')]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 22:25:44] Test start: SendFileFromOneDrive
+[2025-02-04 22:26:07] Test začíná: Odeslání souboru z OneDrive
+[2025-02-04 22:26:07] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@aria-label, 'Chat')]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 22:27:49] Test start: SendFileFromOneDrive
+[2025-02-04 22:27:53] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 22:29:21] Test start: SendFileFromOneDrive
+[2025-02-04 22:29:27] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 22:30:03] Test start: SendFileFromOneDrive
+[2025-02-04 22:31:34] Test začíná: Odeslání souboru z OneDrive
+[2025-02-04 22:31:34] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@aria-label='Připojit soubor']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-04 22:32:38] ERROR: Test failed: SendFileFromOneDrive
+[2025-02-05 17:10:20] Test start: SendFileFromOneDrive
+[2025-02-05 17:10:25] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 17:12:06] Test start: SendFileFromOneDrive
+[2025-02-05 17:12:10] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 17:13:19] Test start: SendFileFromOneDrive
+[2025-02-05 17:13:23] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 17:17:18] Test start: SendFileFromOneDrive
+[2025-02-05 17:17:27] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 17:45:23] Test start: SendFileFromOneDrive
+[2025-02-05 17:45:44] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 17:46:19] ERROR: Chyba při odesílání souboru z OneDrive: element click intercepted: Element <span class="___fqqoxt0 ftgm304 f1jehi8h f1lmfglv f1in0ah0 f1abmfm4 f1nlzb5t f1p9o1ba f1sil6mw fz5stix f1cmbuwj f17mccla fcpl73t f122n59 fk6fouc f13mqy1h" style="color: var(--colorNeutralForeground3BrandSelected);">...</span> is not clickable at point (34, 181). Other element would receive the click: <button type="button" id="86fcd49b-61a2-4701-b771-54728cd291fb" data-tid="86fcd49b-61a2-4701-b771-54728cd291fb" aria-label="Chat" aria-pressed="true" aria-describedby="readerBox-86fcd49b-61a2-4701-b771-54728cd291fb" role="button" data-clicklog="custom" data-pinned="true" class="fui-Button r1alrhcs ___nasu2o0 f1brlhvm f10xn8zz f136y8j8 f1sl3k7w f18ktai2 ftgf7lp f1m4tk7k fre7gi1 f1358rze fqdk4by f1rvrf73 fzki0ko f3swjwz f1hu3pq6 f19f4twv figsok6 f1q9pm1r f1xqy1su f1sdsnyy ftqa4ok f2hkw1w f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf f1mywlt f1njr18z fiwyskv f1o5h46z f1q3txrk f1o7qkhw fode6gy fj239l f1tx4pjd fsuw20m f1krrbdw f1deotkl f10ostut f1ozlkrg f1h3a8gf f1nz3ub2">...</button>
+  (Session info: chrome=132.0.6834.160)
+[2025-02-05 17:46:26] ERROR: Test failed: SendFileFromOneDrive
+[2025-02-05 17:46:57] Test start: SendFileFromOneDrive
+[2025-02-05 17:47:16] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 17:47:45] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@aria-label='Připojit soubor']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:32:58] Test start: SendFileFromOneDrive
+[2025-02-05 18:33:19] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:34:56] Test start: SendFileFromOneDrive
+[2025-02-05 18:35:13] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:35:39] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="menubutton-trigger-12"]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:37:36] Test start: SendFileFromOneDrive
+[2025-02-05 18:37:56] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:38:20] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="menubutton-trigger-12"]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:39:49] Test start: SendFileFromOneDrive
+[2025-02-05 18:40:09] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:40:29] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="message-pane-layout-a11y"]/div[3]/div/div[3]/div/div[2]/div/div[2]/div[2]/div[1]/button[3]/div/span/svg/path[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:45:55] Test start: SendFileFromOneDrive
+[2025-02-05 18:46:14] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:46:24] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"#newMessageCommands\-message\-extension\-flyout\-command"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:51:25] Test start: SendFileFromOneDrive
+[2025-02-05 18:51:27] ERROR: Přihlášení selhalo: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+[2025-02-05 18:51:27] ERROR: Test failed: SendFileFromOneDrive
+[2025-02-05 18:51:38] Test start: SendFileFromOneDrive
+[2025-02-05 18:51:57] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:51:58] ERROR: Chyba při odesílání souboru z OneDrive: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+[2025-02-05 18:53:05] Test start: SendFileFromOneDrive
+[2025-02-05 18:53:26] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:53:26] ERROR: Chyba při odesílání souboru z OneDrive: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+[2025-02-05 18:54:03] Test start: SendFileFromOneDrive
+[2025-02-05 18:54:28] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 18:54:30] ERROR: Chyba při odesílání souboru z OneDrive: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+[2025-02-05 18:57:50] Test start: SendMessageToChat
+[2025-02-05 18:58:15] Test napsání zprávy do chatu začíná.
+[2025-02-05 18:58:25] ERROR: Přihlášení selhalo: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 18:59:00] Test start: SendMessageToChat
+[2025-02-05 18:59:24] Test napsání zprávy do chatu začíná.
+[2025-02-05 19:01:17] Test start: SendFileFromOneDrive
+[2025-02-05 19:01:41] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:02:00] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-tid='newMessageCommands-message-extension-flyout-command']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 19:08:36] Test start: SendFileFromOneDrive
+[2025-02-05 19:09:07] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:11:33] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"button[title='Attach file']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 19:16:02] Test start: SendFileFromOneDrive
+[2025-02-05 19:16:34] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:16:57] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"#menubutton\-trigger\-22"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 19:43:19] Test start: SendFileFromOneDrive
+[2025-02-05 19:43:35] Test start: SendFileFromOneDrive
+[2025-02-05 19:44:05] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:44:18] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"button[title='Attach file (Alt+Shift+O)']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 19:45:57] Test start: SendFileFromOneDrive
+[2025-02-05 19:46:28] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:51:14] Test start: SendFileFromOneDrive
+[2025-02-05 19:51:45] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 19:51:55] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"[data-tid='newMessageCommands-message-extension-flyout-command']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 20:02:29] Test start: SendFileFromOneDrive
+[2025-02-05 20:03:01] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:14:11] Test start: SendFileFromOneDrive
+[2025-02-05 20:14:43] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:21:28] Test start: SendFileFromOneDrive
+[2025-02-05 20:21:59] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:22:13] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"a.ui-menu_item:nth-of-type(1)"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 20:25:20] Test start: SendFileFromOneDrive
+[2025-02-05 20:25:51] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:33:49] Test start: SendFileFromOneDrive
+[2025-02-05 20:34:20] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:34:37] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"[data-automationid='item-state-container']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 20:40:31] Test start: SendFileFromOneDrive
+[2025-02-05 20:41:02] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:41:18] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"button[title='PdfFile']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 20:42:27] Test start: SendFileFromOneDrive
+[2025-02-05 20:42:58] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:43:14] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='PdfFile']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 20:51:14] Test start: SendFileFromOneDrive
+[2025-02-05 20:51:46] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 20:52:03] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"[data-automationid='row-selection-SPO@00888abf-6921-4e17-a5c0-aeacf2545961,nI59utEJVU-RTu8IH5oRZzqtjz1-XEhFmRdcvk0FA4Tis6Ato8EDQ7cwW7607v669JaJQa1P006T4cLv_PkvrQ']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 21:04:12] Test start: SendFileFromOneDrive
+[2025-02-05 21:04:42] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 21:04:59] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"*[name ="PdfFile"]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 21:07:39] Test start: SendFileFromOneDrive
+[2025-02-05 21:08:09] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 21:08:26] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='odList']/div[2]/div[7]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 21:11:49] Test start: SendFileFromOneDrive
+[2025-02-05 21:12:23] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 21:12:39] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"#virtualized\-list_4_SPO\@00888abf\-6921\-4e17\-a5c0\-aeacf2545961\,nI59utEJVU\-RTu8IH5oRZzqtjz1\-XEhFmRdcvk0FA4Tis6Ato8EDQ7cwW7607v669JaJQa1P006T4cLv_PkvrQ"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 21:27:45] Test start: SendMessageToChat
+[2025-02-05 21:28:21] Test napsání zprávy do chatu začíná.
+[2025-02-05 21:33:13] Test start: SendMessageToChat
+[2025-02-05 21:33:45] Test napsání zprávy do chatu začíná.
+[2025-02-05 21:37:44] Test start: SendMessageToChat
+[2025-02-05 21:38:19] Test napsání zprávy do chatu začíná.
+[2025-02-05 21:38:19] Zpráva byla odeslána do chatu.
+[2025-02-05 21:38:20] SUCCESS: Test passed: SendMessageToChat
+[2025-02-05 21:47:41] Test start: SendFileFromOneDrive
+[2025-02-05 21:48:13] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 21:48:30] ERROR: Chyba při odesílání souboru z OneDrive: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+[2025-02-05 21:49:20] Test start: SendFileFromOneDrive
+[2025-02-05 21:49:51] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 21:59:28] Test start: SendFileFromOneDrive
+[2025-02-05 22:00:02] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:07:26] Test start: SendFileFromOneDrive
+[2025-02-05 22:07:59] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:14:48] Test start: SendFileFromOneDrive
+[2025-02-05 22:15:20] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:16:49] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-automationid='list-page']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 22:24:38] Test start: SendFileFromOneDrive
+[2025-02-05 22:25:09] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:25:46] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-automationid='list-pages']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 22:26:46] Test start: SendFileFromOneDrive
+[2025-02-05 22:27:20] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:39:26] Test start: SendFileFromOneDrive
+[2025-02-05 22:40:00] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:40:17] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"(//*[@id='odList']/div[2]/div[7]/div)[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 22:51:21] Test start: SendFileFromOneDrive
+[2025-02-05 22:51:54] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 22:52:21] ERROR: Chyba při odesílání souboru z OneDrive: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="odList"]/div[2]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-05 22:52:52] Test start: SendFileFromOneDrive
+[2025-02-05 22:53:24] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 23:03:47] Test start: SendFileFromOneDrive
+[2025-02-05 23:04:22] Test začíná: Odeslání souboru z OneDrive
+[2025-02-05 23:49:14] Test start: SendMessageToChat
+[2025-02-05 23:49:55] Test napsání zprávy do chatu začíná.
+[2025-02-05 23:50:00] Zpráva byla odeslána do chatu.
+[2025-02-05 23:50:08] SUCCESS: Test passed: SendMessageToChat
+[2025-02-06 00:10:57] Test start: SendMessageToChat
+[2025-02-06 00:11:31] SUCCESS: Test passed: SendMessageToChat
+[2025-02-06 00:12:56] Test start: SendMessageToChat
+[2025-02-06 00:13:39] ERROR: Chyba při odesílání zprávy: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Type a shit message']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 00:13:39] SUCCESS: Test passed: SendMessageToChat
+[2025-02-06 00:14:59] Test start: SendMessageToChat
+[2025-02-06 00:15:41] ERROR: Chyba při odesílání zprávy: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Type a shit message']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 00:16:45] Test start: SendMessageToChat
+[2025-02-06 00:16:47] ERROR: Přihlášení selhalo: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+[2025-02-06 00:16:58] Test start: SendMessageToChat
+[2025-02-06 00:17:41] ERROR: Chyba při odesílání zprávy: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Type a shit message']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 00:17:41] ERROR: Test failed: SendMessageToChat
+[2025-02-06 00:20:26] Test start: SendMessageToChat
+[2025-02-06 15:25:18] Test start: SendFileFromOneDrive
+[2025-02-06 15:28:13] Test start: SendFileFromOneDrive
+[2025-02-06 15:53:16] Test start: SendFileFromOneDrive
+[2025-02-06 15:54:28] Test start: SendFileFromOneDrive
+[2025-02-06 17:15:13] Test start: SendFileFromOneDrive
+[2025-02-06 17:16:44] Test start: SendFileFromOneDrive
+[2025-02-06 17:18:58] Test start: SendFileFromOneDrive
+[2025-02-06 17:23:32] Test start: SendFileFromOneDrive
+[2025-02-06 17:25:05] Test start: SendFileFromOneDrive
+[2025-02-06 17:26:51] Test start: SendFileFromOneDrive
+[2025-02-06 17:29:55] Test start: SendFileFromOneDrive
+[2025-02-06 17:36:17] Test start: SendFileFromOneDrive
+[2025-02-06 17:42:42] Test start: SendFileFromOneDrive
+[2025-02-06 17:53:01] Test start: SendFileFromOneDrive
+[2025-02-06 18:31:09] Test start: SendFileFromOneDrive
+[2025-02-06 18:32:07] ERROR: Test failed: SendFileFromOneDrive
+[2025-02-06 18:32:07] ERROR: Failed message: OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+[2025-02-06 18:33:27] Test start: SendFileFromOneDrive
+[2025-02-06 18:43:33] Test start: SendFileFromOneDrive
+[2025-02-06 18:48:52] Test start: SendFileFromOneDrive
+[2025-02-06 18:56:37] Test start: SendFileFromOneDrive
+[2025-02-06 18:59:56] Test start: SendFileFromOneDrive
+[2025-02-06 19:03:33] Test start: SendFileFromOneDrive
+[2025-02-06 19:04:27] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 19:09:27] Test start: SendFileFromOneDrive
+[2025-02-06 19:26:34] Test start: SendFileFromOneDrive
+[2025-02-06 19:27:04] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 19:28:09] Test start: SendFileFromOneDrive
+[2025-02-06 19:28:17] ERROR: Přihlášení selhalo: stale element reference: stale element not found in the current frame
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+[2025-02-06 19:28:54] Test start: SendFileFromOneDrive
+[2025-02-06 19:30:41] Test start: SendFileFromOneDrive
+[2025-02-06 19:31:45] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 19:33:09] Test start: SendFileFromOneDrive
+[2025-02-06 19:45:09] Test start: SendFileFromOneDrive
+[2025-02-06 19:50:39] Test start: SendFileFromOneDrive
+[2025-02-06 19:52:54] Test start: SendFileFromOneDrive
+[2025-02-06 19:56:38] Test start: SendFileFromOneDrive
+[2025-02-06 19:57:23] Test start: SendFileFromOneDrive
+[2025-02-06 19:58:18] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 20:10:38] Test start: SendFileFromOneDrive
+[2025-02-06 20:12:46] Test start: SendFileFromOneDrive
+[2025-02-06 20:13:28] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 20:16:42] Test start: SendMessageToChat_TestPassed
+[2025-02-06 20:17:04] SUCCESS: Test passed: SendMessageToChat_TestPassed
+[2025-02-06 20:46:29] Test start: SendMessageToChat_TestPassed
+[2025-02-06 20:48:59] SUCCESS: Test passed: SendMessageToChat_TestPassed
+[2025-02-06 20:53:54] Test start: SendFileFromOneDrive
+[2025-02-06 20:57:12] Test start: SendFileFromOneDrive
+[2025-02-06 20:59:19] Test start: SendFileFromOneDrive
+[2025-02-06 21:08:07] Test start: SendFileFromOneDrive
+[2025-02-06 21:10:44] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 21:11:17] Test start: SendFileFromOneDrive
+[2025-02-06 21:12:11] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 21:13:09] Test start: SendFileFromOneDrive
+[2025-02-06 21:15:50] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 21:20:34] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:20:55] ERROR: Přihlášení selhalo: Unable to locate element: #i0116; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 21:22:17] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:22:35] ERROR: Přihlášení selhalo: Unable to locate element: #i0116; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 21:23:32] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:23:51] ERROR: Přihlášení selhalo: Unable to locate element: #i0116; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-06 21:29:38] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:33:08] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:36:46] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:39:24] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:39:58] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:45:45] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:47:31] Test start: SendFileFromOneDrive
+[2025-02-06 21:47:43] ERROR: Přihlášení selhalo: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+[2025-02-06 21:48:54] Test start: SendFileFromOneDrive
+[2025-02-06 21:49:04] ERROR: Přihlášení selhalo: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+[2025-02-06 21:52:57] Test start: SendTwoFileFromOneDrive
+[2025-02-06 21:57:53] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:07:11] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:15:09] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:16:16] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:20:17] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:28:22] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:31:29] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:32:29] ERROR: Test failed: SendTwoFileFromOneDrive
+[2025-02-06 22:32:29] ERROR: Failed message: OpenQA.Selenium.StaleElementReferenceException : The element with the reference 6a2eefda-6392-4101-bf81-a47fdbc5efe1 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+[2025-02-06 22:39:01] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:45:14] Test start: SendFileFromOneDrive
+[2025-02-06 22:45:47] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 22:45:58] Test start: SendFileFromOneDrive
+[2025-02-06 22:51:32] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 22:52:40] Test start: SendFileFromOneDrive
+[2025-02-06 22:53:13] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 22:55:59] Test start: SendTwoFileFromOneDrive
+[2025-02-06 22:57:13] SUCCESS: Test passed: SendTwoFileFromOneDrive
+[2025-02-06 23:06:06] Test start: SendTwoFileFromOneDrive
+[2025-02-06 23:10:13] SUCCESS: Test passed: SendTwoFileFromOneDrive
+[2025-02-06 23:11:54] Test start: SendFileFromOneDrive
+[2025-02-06 23:16:54] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-06 23:24:14] Test start: SendMessageWithoutFile_TestPassed
+[2025-02-06 23:25:27] SUCCESS: Test passed: SendMessageWithoutFile_TestPassed
+[2025-02-06 23:25:51] Test start: SendMessageWithoutFile_TestPassed
+[2025-02-06 23:29:35] Test start: SendMessageWithoutFile_TestPassed
+[2025-02-06 23:41:04] Test start: SendMessageWithoutFile_TestPassed
+[2025-02-06 23:45:58] Test start: SendFileFromOneDrive
+[2025-02-06 23:48:40] Test start: SendFileFromOneDrive
+[2025-02-06 23:50:46] Test start: SendFileFromOneDrive
+[2025-02-07 00:11:55] Test start: SendMessageWithoutFile_TestPassed
+[2025-02-07 00:14:48] Test start: SendMessageWithoutFile_TestFailed
+[2025-02-07 00:17:12] Test start: SendMessageWithoutFile_TestFailed
+[2025-02-07 00:31:28] Test start: SendFileFromOneDrive
+[2025-02-07 00:32:03] SUCCESS: Test passed: SendFileFromOneDrive
+[2025-02-07 00:56:23] Test start: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 00:57:56] SUCCESS: Test passed: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 00:58:54] Test start: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 01:11:00] Test start: SendFileFromOneDrive_FileSent
+[2025-02-07 01:11:24] ERROR: Test failed: SendFileFromOneDrive_FileSent
+[2025-02-07 01:11:24] ERROR: Failed message: OpenQA.Selenium.StaleElementReferenceException : stale element reference: stale element not found in the current frame
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+[2025-02-07 01:11:24] Test start: SendMessageToChat_MessageSent
+[2025-02-07 01:11:48] SUCCESS: Test passed: SendMessageToChat_MessageSent
+[2025-02-07 01:14:14] Test start: SendFileFromOneDrive_FileSent
+[2025-02-07 01:14:44] SUCCESS: Test passed: SendFileFromOneDrive_FileSent
+[2025-02-07 01:15:38] Test start: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 01:16:10] SUCCESS: Test passed: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 01:17:08] Test start: SendFileFromOneDrive_FileSent
+[2025-02-07 01:17:36] SUCCESS: Test passed: SendFileFromOneDrive_FileSent
+[2025-02-07 01:17:37] Test start: SendMessageToChat_MessageSent
+[2025-02-07 01:18:01] SUCCESS: Test passed: SendMessageToChat_MessageSent
+[2025-02-07 01:34:13] Test start: SendThreeMessagesToChat_MessagesSent
+[2025-02-07 01:36:56] SUCCESS: Test passed: SendThreeMessagesToChat_MessagesSent
+[2025-02-07 18:16:07] Test start: SendThreeMessagesToChat_MessageSent
+[2025-02-07 18:16:41] ERROR: Login failed: Unable to locate element: #i0116; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-07 18:17:28] Test start: SendMessageToChat_MessageSent
+[2025-02-07 18:17:52] ERROR: Login failed: no such element: Unable to locate element: {"method":"css selector","selector":"#i0116"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-07 18:19:38] Test start: SendThreeMessagesToChat_MessageSent
+[2025-02-07 18:19:58] ERROR: Login failed: Unable to locate element: #i0116; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+[2025-02-07 18:35:21] Test start: SendThreeMessagesToChat_MessageSent
+[2025-02-07 18:37:04] SUCCESS: Test passed: SendThreeMessagesToChat_MessageSent
+[2025-02-07 18:38:54] Test start: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 18:40:35] SUCCESS: Test passed: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 19:13:21] Test start: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 19:15:54] SUCCESS: Test passed: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 19:32:28] Test start: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 19:33:35] SUCCESS: Test passed: SendThreeMessagesToChat_MessagesSent1
+[2025-02-07 19:35:23] Test start: SendThreeMessagesToChat_MessagesSent
+[2025-02-07 19:36:27] SUCCESS: Test passed: SendThreeMessagesToChat_MessagesSent
+[2025-02-07 19:36:29] Test start: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 19:37:41] ERROR: Test failed: SendTwoFilesFromOneDrive_FilesSent
+[2025-02-07 19:37:41] ERROR: Failed message: OpenQA.Selenium.NoSuchElementException : Unable to locate element: [data-automationid='row-selection-SPO@00888abf-6921-4e17-a5c0-aeacf2545961,nI59utEJVU-RTu8IH5oRZzqtjz1-XEhFmRdcvk0FA4Tis6Ato8EDQ7cwW7607v669JaJQa1P006T4cLv_PkvrQ']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
